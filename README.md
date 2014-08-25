@@ -6,6 +6,8 @@ This is a fork of the original [node-serialize](https://github.com/chaoran/node-
 The purpose for this fork is to extend the functionality (and also work in browser) in a way, not currently compatible
 with the original lib ( https://github.com/chaoran/node-serialize/issues/1 ).
 
+**Note** For a newer approach to asynchronous serialisation (and other stuff), see [Asynchronous](https://github.com/foo123/asynchronous.js) a simple manager for async, linearised, parallelised, interleaved and sequential tasks for JavaScript
+
 
 ##Extra methods
 
