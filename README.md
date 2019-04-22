@@ -9,7 +9,7 @@ with the original lib ( https://github.com/chaoran/node-serialize/issues/1 ).
 **Note** For a newer approach to asynchronous serialisation (and other stuff), see [Asynchronous](https://github.com/foo123/asynchronous.js) a simple manager for async, linearised, parallelised, interleaved and sequential tasks for JavaScript
 
 
-##Extra methods
+## Extra methods
 
 * works in node and browser
 * __rewire__ : allow results of current task to be rewired selectively to the arguments of next task in queue
